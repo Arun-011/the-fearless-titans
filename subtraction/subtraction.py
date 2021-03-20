@@ -1,3 +1,4 @@
+#This is the program for subtraction
 def doSubtraction(a,b):
     res=a-b
     print('Result : ',res)
